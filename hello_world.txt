@@ -1,0 +1,4 @@
+added some random text
+test document
+random string of text
+line 4
